@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dividers (seminar 1)", "Dividers (seminar 1)\Dividers (seminar 1).csproj", "{213A88BD-2752-4BC2-A6F0-ABABF918208D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213A88BD-2752-4BC2-A6F0-ABABF918208D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213A88BD-2752-4BC2-A6F0-ABABF918208D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213A88BD-2752-4BC2-A6F0-ABABF918208D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213A88BD-2752-4BC2-A6F0-ABABF918208D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72800957-FA59-40D1-A741-2431E589695D}
+	EndGlobalSection
+EndGlobal
